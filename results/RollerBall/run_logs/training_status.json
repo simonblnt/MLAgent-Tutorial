@@ -1,0 +1,23 @@
+{
+    "RollerBall": {
+        "checkpoints": [
+            {
+                "steps": 3508,
+                "file_path": "results\\RollerBall\\RollerBall\\RollerBall-3508.onnx",
+                "reward": 0.0,
+                "creation_time": 1618993744.1368756
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3508,
+            "file_path": "results\\RollerBall\\RollerBall.onnx",
+            "reward": 0.0,
+            "creation_time": 1618993744.1368756
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.8.0+cu111"
+    }
+}
